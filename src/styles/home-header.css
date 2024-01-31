@@ -1,0 +1,27 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #3f51b5;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  padding: 20px;
+}
+.header-title,
+.header-image {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0;
+  margin-left: 40px;
+}
+.header-image img {
+  width: 80px;
+  height: 102px;
+}
+.header-title {
+  font-size: 35px;
+  font-family: 'Poppins', sans-serif;
+  color: #ffffff;
+}
+.header-title small {
+  display: block;
+}

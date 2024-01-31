@@ -1,0 +1,32 @@
+.login-form {
+  position: relative;
+  text-align: center;
+  padding: 100px 0px;
+  z-index: 1;
+}
+.login-form-logo {
+  border: 1px solid #cecece;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  line-height: 180px;
+  margin: 25px auto;
+}
+.login-form-logo i {
+  font-size: 50px;
+  color: #fff;
+}
+.login-form-title {
+  font-family: 'Poppins', -apple-system, sans-serif;
+  font-weight: 500;
+  color: #fff;
+}
+.login-form-title small {
+  display: block;
+  font-family: 'Poppins', -apple-system, sans-serif;
+  font-weight: 300;
+}
+.login-form-btn {
+  background-color: var(--blue) !important;
+}

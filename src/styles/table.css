@@ -1,0 +1,32 @@
+.ReactTable .rt-thead.-filters .rt-th {
+  height: 50px;
+}
+.ReactTable .rt-tbody .rt-td {
+  text-align: center;
+}
+.table-name-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table-name {
+  user-select: none;
+  text-align: left !important;
+}
+.table-header {
+  width: 80px;
+  height: 160px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.table-header .rt-resizable-header-content {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  width: 160px;
+  justify-content: space-evenly;
+  transform: rotate(270deg);
+  white-space: pre-wrap;
+}

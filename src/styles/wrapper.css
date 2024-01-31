@@ -1,0 +1,9 @@
+.db-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.db-wrapper {
+  width: 1200px;
+}

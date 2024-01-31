@@ -1,0 +1,21 @@
+.Main--panel {
+  height: 90vh;
+}
+.Main--container {
+  width: 100%;
+}
+
+.Main--menu-container {
+  position: fixed !important;
+  background-color: #122c46 !important;
+}
+.Main--menu-header {
+  background-color: #051e34 !important;
+  padding: 24px !important;
+}
+.Main--menu-title {
+  color: #669df6 !important;
+}
+.Main--menu-subtitle {
+  color: #b6d0fb !important;
+}
